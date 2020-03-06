@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "666ca8bf7efff0a71663ad3c74875f25",
+    "revision": "1d92941642a64ddb918bac672d5863e4",
     "url": "/crio-pdp-2019-vivekstorm/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crio-pdp-2019-vivekstorm/static/css/2.b3ff1c62.chunk.css"
   },
   {
-    "revision": "e9f633179e13d037467e",
+    "revision": "fa9cd2f66aa9d592f661",
     "url": "/crio-pdp-2019-vivekstorm/static/css/main.8ca1969d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crio-pdp-2019-vivekstorm/static/js/2.ddb5f323.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9f633179e13d037467e",
-    "url": "/crio-pdp-2019-vivekstorm/static/js/main.7122ea93.chunk.js"
+    "revision": "fa9cd2f66aa9d592f661",
+    "url": "/crio-pdp-2019-vivekstorm/static/js/main.83a1ee88.chunk.js"
   },
   {
     "revision": "3e9cfe7f183e458362e0",
